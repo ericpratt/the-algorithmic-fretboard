@@ -2,7 +2,7 @@
 
 
 ### Info:
-A blog about my AI journey as I attempt to use it to improve my classical guitar teaching business. 
+A blog about my journey as I attempt to use my brain and technology to improve the state of classical guitar pedagogy.
 
 
 ### Folder Structure:
@@ -23,16 +23,3 @@ The Algorithmic Fretboard/
     ├── idea/date-format-as-above-title
          ├── idea.md
          ├── images
-```
-
-
-
-## The Dog:
-````
- int xy;
-= madeling is dumb and sillt 
-
-```
-
-
-
