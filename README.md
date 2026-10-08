@@ -7,7 +7,7 @@ A blog about my AI journey as I attempt to use it to improve my classical guitar
 
 ### Folder Structure:
 
-```text
+```
 The Algorithmic Fretboard/
 ├── .git/
 ├── .gitignore
@@ -23,11 +23,16 @@ The Algorithmic Fretboard/
     ├── idea/date-format-as-above-title
          ├── idea.md
          ├── images
-
-
 ```
 
 
+
+## The Dog:
+````
+ int xy;
+= madeling is dumb and sillt 
+
+```
 
 
 
