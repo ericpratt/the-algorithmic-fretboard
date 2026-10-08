@@ -1,0 +1,12 @@
+# Ignore large or temporary files
+*.wav
+*.mp3
+*.aup
+*.aup3
+*.backup
+Thumbs.db
+desktop.ini
+
+# Ignore system/temp folders
+node_modules/
+
